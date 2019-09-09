@@ -1,4 +1,4 @@
-# Adivina un numero
+# Adivina un numero dos jugadores
 print("Hola ¿Listos para jugar?")
 adivina_numero = int(input("Piensa en un numero entero del 1 al 100 para que tu compañero adivine (Que tu compañero no lo vea):"))
 
